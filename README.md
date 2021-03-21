@@ -1,3 +1,6 @@
+HGO Lite has been put on indefinite hiatus.
+---------------
+
 This mod changes all country names to Long Versions
 
 How to install the mod:
